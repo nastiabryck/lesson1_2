@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300&display=swap');
+
+body {
+    background-color: wheat;
+}
+h1{
+    font-size: 80px;
+}
+p{
+    color: rgb(97, 32, 25);
+    font-size: 20px;
+}
+h2{
+    color: maroon;
+    font-size: 40px;
+}
+img{
+    border-radius: 50%;
+    width: 190px;
+    height: 190px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
